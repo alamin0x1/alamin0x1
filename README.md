@@ -1,15 +1,17 @@
-<h1> 👋 Hello, I'm Al-Amin</h1>
+<h1 align="center"> 👋 Hello, I'm Al-Amin</h1>
 
-### Android App Developer
+<h4 align="center"> Android App Developer </h4></br>
 
 <br/>
 
-### Contact me
+<h1 align="center">Contact Me</h1></br>
+
 <!-- Contact me section starts here  -->
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+
+[<img align="center" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="center" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="center" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="center" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
 <br />
 
@@ -18,10 +20,10 @@
 
 <!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
+<h1 align="center">About Me</h1></p>
 
 <p align="justify">
-My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
+My Name is Al-Amin . I'm an Android App Developer. I have more than 2+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
 <br />
 <!-- about-me section ends here  -->
 
@@ -29,7 +31,7 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills :
+<h1 align="center">My Skills</h1></p>
 <img align="left" alt="java"  width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="android"  width="45" hspace="5" src="./images/android.svg" />
 <img align="left" alt="html5" width="45" hspace="5" src="./images/html5.svg" />
@@ -51,17 +53,20 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin0x1)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">
+  <img height=auto width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin0x1&show_icons=true&locale=en&layout=compact" alt="alamin0x1" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin0x1&show_icons=true&count_private=true)
+</h3>
 
-<br/>
+<h3 align="center">
+<img  align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x1&layout=compact" alt="alamin0x1" />
 
+
+<img align="right" height=auto width=45% src="https://github-readme-stats.vercel.app/api?username=alamin0x1&show_icons=true&layout=compact" alt="alamin0x1" />
+</h3>
 <!-- github stats ends here  -->
 
 <br/>
-
-
 
 
 <!-- Links section starts here -->
